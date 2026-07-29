@@ -6,14 +6,12 @@
 </div>
 
 <h1 align="center">Olá 👋, Eu sou Cauã</h1>
-<h3 align="center">Estudante residente em Sorocab-SP/Brasil.</h3>
-<p align="center">Estudante de JavaScript aplicado a problemas reais</p>
+<h3 align="center">Residente em Sorocaba-SP/Brasil.</h3>
+<p align="center">Developer Full Stack</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Americanoooo&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="Americanoooo" /> </p>
 
-- 🔭Em busca da primeira oportunidade de emprego.
-
-- 🌱 Meus estudos atuais focam em **Front End (React, JavaScript and TypeScript)**.
+- 🌱 Meus estudos atuais focam em **Full Stack (Node, Express, TypeScript, React, MySQL)**.
 
 - 📫 Este é meu e-mail para contato: **caua.americano0710@gmail.com**
 
